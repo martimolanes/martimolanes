@@ -6,6 +6,6 @@
 - 📫 How to reach me: ...
 -->
 ### Fast Introduction about me
-## My history/path
-## Interests
-## How to reach me:
+#### My history/path
+#### Interests
+#### How to reach me:
