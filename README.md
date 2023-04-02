@@ -1,11 +1,29 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-### Fast Introduction about me
-#### My history/path
-#### Interests
-#### How to reach me:
+<h1 align='center'>
+  Heyyy! 👋 I'm Martiño 👨‍💻 a second year CS student
+</h1>
+
+<p align='center'>
+  I'm <b>incredibly passionate</b> about CS and a keen interest in working <b>collaboratively with others</b> to create projects and achieve goals.
+</p>
+  
+<details>
+  <summary>🔭 Currently working on</summary>
+  </br>
+  I am <b>proud</b> to be working alongside a team of like-minded individuals, to develop an <b>autonomous system</b> for a <b>Formula Student</b> competition. Being a part of a team has given me invaluable insights into the <b>importance of communication</b>, and be able to work with engineers from different backgrounds and disciplines; gaving me the chance, both <b>sharing and acquiring</b> different technical skills.
+</details>
+
+<details>
+  <summary>🦀 Interests</summary>
+  </br>
+  <ul>
+  <li>Low level SFW stuff(embedded, OS, virtualization).</li>
+  <li>Observability.</li>
+  <li>Looking forward to learn distributed systems.</li>
+  </ul>
+</details>
+
+-----
+
+<a href="https://www.linkedin.com/in/marti%C3%B1o-/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
