@@ -9,14 +9,14 @@
 <details>
   <summary>🔭 Currently working on</summary>
   </br>
-  I am <b>proud</b> to be working alongside a team of like-minded individuals, to develop an <b>autonomous system</b> for a <b>Formula Student</b> competition. Being a part of a team has given me invaluable insights into the <b>importance of communication</b>, and be able to work with engineers from different backgrounds and disciplines; gaving me the chance, both <b>sharing and acquiring</b> different technical skills.
+  I am <b>proud</b> to be working alongside a team of like-minded individuals, to develop an <b>autonomous system</b> for a <b>Formula Student</b> competition. Being a part of a team has given me invaluable insights into the <b>importance of communication</b>, and be able to work with engineers from different backgrounds and disciplines; giving me the chance, both <b>sharing and acquiring</b> different technical skills.
 </details>
 
 <details>
   <summary>🦀 Interests</summary>
   </br>
   <ul>
-  <li>Low level SFW stuff(embedded, OS, virtualization).</li>
+  <li>Low level SW stuff(embedded, OS, virtualization).</li>
   <li>Observability.</li>
   <li>Looking forward to learn distributed systems.</li>
   </ul>
