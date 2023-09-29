@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Heyyy! 👋 I'm Martiño 👨‍💻 a second year CS student
+  Heyyy! I'm Martiño 👨‍💻 a third year spanish CS student studying now in Finland.
 </h1>
 
 <p align='center'>
@@ -17,6 +17,7 @@
   </br>
   <ul>
   <li>Low level SW stuff(embedded, OS, virtualization).</li>
+ <li>Deployment and infrastructure</li>
   <li>Observability.</li>
   <li>Looking forward to learn distributed systems.</li>
   </ul>
