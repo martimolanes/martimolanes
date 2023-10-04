@@ -17,7 +17,7 @@
   </br>
   <ul>
   <li>Low level SW stuff(embedded, OS, virtualization).</li>
- <li>Deployment and infrastructure</li>
+ <li>Deployment and Infrastructure</li>
   <li>Observability.</li>
   <li>Looking forward to learn distributed systems.</li>
   </ul>
