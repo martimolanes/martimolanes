@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Heyyy! I'm Martiño 👨‍💻 a third year spanish CS student studying now in Finland.
+  Heyyy! I'm Martiño 👨‍💻 a third year spanish CS student studying in Finland.
 </h1>
 
 <p align='center'>
@@ -20,6 +20,18 @@
  <li>Deployment and Infrastructure</li>
   <li>Observability.</li>
   <li>Looking forward to learn distributed systems.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🫠 Stuff I admire</summary>
+  </br>
+  <ul>
+  <li>Chess</li>
+ <li>Linux</li>
+  <li>Theoretical Math and CS</li>
+  <li>OSS</li>
+  <li>A simple Life</li>
   </ul>
 </details>
 
