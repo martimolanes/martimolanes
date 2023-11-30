@@ -30,7 +30,7 @@
   <li>Chess</li>
  <li>Linux</li>
   <li>Theoretical Math and CS</li>
-  <li>OSS</li>
+  <li>Open Source Software</li>
   <li>A simple Life</li>
   </ul>
 </details>
