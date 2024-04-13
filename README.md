@@ -40,3 +40,5 @@
 <a href="https://www.linkedin.com/in/marti%C3%B1o-/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=martimolanes&color=orange)
